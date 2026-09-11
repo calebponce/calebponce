@@ -14,13 +14,15 @@ An explainable room-planning platform that converts design signals and hard budg
 - Added a deterministic optimizer that compares thousands of valid product combinations across three visible strategy objectives.
 - Built a zero-sign-in public case study with responsive interaction, automated tests, CI, and GitHub Pages delivery.
 
-### [LayoverPlus](https://github.com/calebponce/Layover-Plus)
+### [LayoverPlus](https://github.com/calebponce/Layover-Plus) · [Live case study](https://calebponce.github.io/Layover-Plus/)
 
 A risk-aware micro-itinerary planner that answers whether a traveler can safely leave an airport during a layover.
 
-- Combines deterministic timing and feasibility rules with optional Gemini-assisted ranking and explanations.
+- Contributed AI and backend engineering to the original three-person SFSU application.
+- Separates deterministic timing and feasibility rules from optional Gemini-assisted ranking and explanations.
 - Uses conservative fallbacks when AI, place discovery, or routing providers are unavailable.
 - Includes API contracts, browser-level interaction coverage, validation, rate limiting, and automated CI.
+- Added a zero-sign-in interactive case study that exposes the safety math and deploys free through GitHub Pages.
 
 ## Engineering approach
 
