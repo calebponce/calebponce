@@ -29,9 +29,10 @@ A risk-aware micro-itinerary planner that answers whether a traveler can safely 
 A solo CI reliability console that turns workflow evidence into explainable release decisions.
 
 - Designed and built the product independently, from triage rules and edge API to interface, tests, and deployment.
+- Loads real public GitHub Actions history and normalizes workflow, job, commit, queue, retry, and branch evidence.
 - Classifies code regressions, flaky tests, infrastructure pressure, and dependency incidents without hiding the evidence.
 - Produces conservative ALLOW, HOLD, or BLOCK recommendations and returns inconclusive when the evidence is weak.
-- Runs as a public full-stack demo without repository access, sign-in, paid services, or third-party credentials.
+- Runs as a public full-stack demo without sign-in, paid services, or private-repository credentials.
 
 ## Engineering approach
 
