@@ -24,6 +24,14 @@ A risk-aware micro-itinerary planner that answers whether a traveler can safely 
 - Includes API contracts, browser-level interaction coverage, validation, rate limiting, and automated CI.
 - Added a zero-sign-in interactive case study that exposes the safety math and deploys free through GitHub Pages.
 
+### [RunSignal](https://github.com/calebponce/RunSignal) · [Live demo](https://runsignal-caleb.mheaeduardo.chatgpt.site)
+
+A solo CI reliability console that turns workflow evidence into explainable release decisions.
+
+- Designed and built the product independently, from triage rules and edge API to interface, tests, and deployment.
+- Classifies code regressions, flaky tests, infrastructure pressure, and dependency incidents without hiding the evidence.
+- Produces conservative ALLOW, HOLD, or BLOCK recommendations and returns inconclusive when the evidence is weak.
+- Runs as a public full-stack demo without repository access, sign-in, paid services, or third-party credentials.
 ## Engineering approach
 
 - Keep business-critical decisions deterministic and auditable.
