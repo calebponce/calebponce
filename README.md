@@ -32,6 +32,7 @@ A solo CI reliability console that turns workflow evidence into explainable rele
 - Classifies code regressions, flaky tests, infrastructure pressure, and dependency incidents without hiding the evidence.
 - Produces conservative ALLOW, HOLD, or BLOCK recommendations and returns inconclusive when the evidence is weak.
 - Runs as a public full-stack demo without repository access, sign-in, paid services, or third-party credentials.
+
 ## Engineering approach
 
 - Keep business-critical decisions deterministic and auditable.
