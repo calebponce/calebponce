@@ -10,11 +10,21 @@ If you have a minute, start with the project closest to the role:
 
 | For roles focused on… | Review… | What to look for |
 | --- | --- | --- |
+| Mobile, AR, and fullstack product engineering | [Hardline](https://github.com/calebponce/hardline-engineering-showcase) | iOS ARKit capture → FastAPI pipeline → 3D web review — built and shipped as co-founder |
 | Full-stack systems and operational reliability | [RunSignal](https://runsignal-caleb.mheaeduardo.chatgpt.site) | Explainable release triage built from live public CI evidence |
 | Product engineering and safety-critical UX | [LayoverPlus](https://calebponce.github.io/Layover-Plus/) | A deterministic go/no-go travel decision with visible timing assumptions |
 | Backend logic, optimization, and applied AI | [Home4U](https://calebponce.github.io/Home-4-U/) | Constraint-valid shopping strategies with transparent budget tradeoffs |
 
 ## Selected work
+
+### [Hardline](https://github.com/calebponce/hardline-engineering-showcase) · [Live product](https://hardline-seven.vercel.app/)
+
+A native iOS AR capture and web review platform that maps utilities (pipes, wires, studs) behind walls using LiDAR scanning, a FastAPI processing pipeline, and a Three.js 3D console.
+
+- Co-founded and built end-to-end: iOS app (Swift, ARKit, SceneKit), FastAPI backend with Celery workers, Supabase/PostgreSQL persistence, and a Next.js/Three.js web console.
+- Owned full-stack product delivery, reconstruction integration, RBAC security, sharing flows, and field UX across 228 authored commits.
+- Shipped AR return guidance that uses spatial math to re-anchor recorded utilities on the finished wall after drywall closes.
+- Implemented multi-tenant project workspaces, role-based access control (Owner, GC, Subcontractor), and automated PDF utility-record reports.
 
 ### [Home4U](https://github.com/calebponce/Home-4-U) · [Live case study](https://calebponce.github.io/Home-4-U/)
 
@@ -54,6 +64,6 @@ A solo CI reliability console that turns workflow evidence into explainable rele
 
 ## Core tools
 
-`JavaScript` · `React` · `Node.js` · `Express` · `Python` · `FastAPI` · `SQLAlchemy` · `REST APIs` · `Playwright` · `GitHub Actions` · `Applied AI`
+`Swift` · `ARKit` · `TypeScript` · `React` · `Next.js` · `Three.js` · `JavaScript` · `Node.js` · `Python` · `FastAPI` · `SQLAlchemy` · `Celery` · `REST APIs` · `Playwright` · `GitHub Actions` · `Applied AI`
 
 I am currently seeking software engineering opportunities where I can contribute across product, frontend, backend, and system design.
