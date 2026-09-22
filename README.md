@@ -1,6 +1,6 @@
 # Caleb Ponce
 
-**AI application engineer building reliable products with explainable decision logic.**
+**Software engineer building AI applications with explainable decision logic.**
 
 I build web applications where the difficult part is not just generating an answer—it is making that answer safe, testable, and understandable. My recent work combines React interfaces, backend APIs, deterministic planning systems, applied AI, and automated delivery.
 
