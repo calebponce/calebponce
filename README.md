@@ -1,6 +1,6 @@
 # Caleb Ponce
 
-**Full-stack developer building reliable products with explainable decision logic.**
+**AI application engineer building reliable products with explainable decision logic.**
 
 I build web applications where the difficult part is not just generating an answer—it is making that answer safe, testable, and understandable. My recent work combines React interfaces, backend APIs, deterministic planning systems, applied AI, and automated delivery.
 
@@ -10,14 +10,14 @@ If you have a minute, start with the project closest to the role:
 
 | For roles focused on… | Review… | What to look for |
 | --- | --- | --- |
-| Startup product engineering | [Hardline engineering case study](https://github.com/calebponce/hardline-engineering-showcase) | My documented contributions to a private AR utility-record product |
-| Full-stack systems and operational reliability | [RunSignal](https://runsignal-caleb.mheaeduardo.chatgpt.site) | Explainable release triage built from live public CI evidence |
-| Product engineering and safety-critical UX | [LayoverPlus](https://calebponce.github.io/Layover-Plus/) | A deterministic go/no-go travel decision with visible timing assumptions |
-| Backend logic, optimization, and applied AI | [Home4U](https://calebponce.github.io/Home-4-U/) | Constraint-valid shopping strategies with transparent budget tradeoffs |
+| AI application engineering | [LayoverPlus](https://calebponce.github.io/Layover-Plus/) | Optional Gemini ranking behind deterministic feasibility, fallback, and mocked-provider tests |
+| Applied AI and optimization | [Home4U](https://calebponce.github.io/Home-4-U/) | Constraint-valid shopping strategies with transparent budget tradeoffs |
+| Full-stack reliability | [RunSignal](https://runsignal-caleb.mheaeduardo.chatgpt.site) | Explainable release triage built from public CI evidence |
+| Startup product engineering | [Hardline engineering showcase](https://calebponce.github.io/hardline-engineering-showcase/) | A synthetic interactive case study for a private AR utility-record product |
 
 ## Selected work
 
-### [Hardline](https://github.com/calebponce/hardline-engineering-showcase) · [Product site](https://hardline-seven.vercel.app/)
+### [Hardline](https://github.com/calebponce/hardline-engineering-showcase) · [Live case study](https://calebponce.github.io/hardline-engineering-showcase/) · [Product site](https://hardline-seven.vercel.app/)
 
 A native iOS capture and web review platform for documenting utilities before walls close. I am a co-founder and full-stack engineer. The production repository is private; the linked public case study explains selected engineering decisions with synthetic data.
 
@@ -49,7 +49,7 @@ A risk-aware micro-itinerary planner that answers whether a traveler can safely 
 A solo CI reliability console that turns workflow evidence into explainable release decisions.
 
 - Designed and built the product independently, from triage rules and edge API to interface, tests, and deployment.
-- Loads real public GitHub Actions history and normalizes workflow, job, commit, queue, retry, and branch evidence.
+- Loads real public GitHub Actions history and normalizes workflow, job, commit, queue, run-attempt count, and branch evidence; earlier retry outcomes remain unknown unless verified.
 - Classifies code regressions, flaky tests, infrastructure pressure, and dependency incidents without hiding the evidence.
 - Produces conservative ALLOW, HOLD, or BLOCK recommendations and returns inconclusive when the evidence is weak.
 - Runs as a public full-stack demo without sign-in, paid services, or private-repository credentials.
@@ -65,4 +65,4 @@ A solo CI reliability console that turns workflow evidence into explainable rele
 
 `TypeScript` · `JavaScript` · `React` · `Node.js` · `Express` · `Python` · `FastAPI` · `SQLAlchemy` · `REST APIs` · `Playwright` · `GitHub Actions` · `Applied AI`
 
-I am currently seeking software engineering opportunities where I can contribute across product, frontend, backend, and system design.
+I am currently seeking AI application engineering opportunities where I can contribute across product, frontend, backend, and system design.
